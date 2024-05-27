@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/luishresende">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=luishresende&repo=codemarket"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=luishresende&repo=codemarket&theme=material-palenight"/>
 </div>
    
 <div style="display: inline_block"><br>
